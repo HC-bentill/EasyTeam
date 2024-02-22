@@ -1,6 +1,4 @@
-# React and Node.js (Comission Simulator)
-
-This is a project template for building a full-stack web application using React for the frontend and Node.js for the backend, both written in TypeScript.
+# Next.js and Node.js (Comission Simulator)
 
 ## Project Setup
 
